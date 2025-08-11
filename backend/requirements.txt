@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-sqlalchemy
+flask-migrate
+flask-bcrypt
+flask-jwt-extended
+python-dotenv
+flask-socketio
+eventlet            # or gevent
+redis               # if using redis message queue
+psycopg2-binary
